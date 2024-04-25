@@ -24,11 +24,41 @@
           <a href="https://www.codechef.com/users/ashwinkumars" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hmajzoub12" height="30" width="40" /></a>
           <a href="https://www.codedex.io/@ashwin" target="_blank"><img src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4.svg" alt="ashwin" height="30" width="40" /></a>
         </p>
-        <h3>Languages and Tools:</h3>
+        <h3>Languages, Frameworks and Tools:</h3>
         <p>
           <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
           <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+          <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/></a>
+          <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+          <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0&WT.mc_id=dotnet-35129-website" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/></a>
+          <a href="https://www.drupal.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="Drupal" width="40" height="40"/></a>
+          <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40"/></a>
+          <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+          <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/></a>
+          <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
+          <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+          <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/></a>
+          <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></a>
+          <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" alt="Kibana" width="40" height="40"/></a>
+          <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+          <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="MaterialUI" width="40" height="40"/></a>
+          <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MS SQL Server" width="40" height="40"/></a>
+          <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
+          <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/></a>
+          <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+          <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+          <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a>
+          <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/></a>
+          <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40"/></a>
+          <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40"/></a>
+          <a href="https://v2.vuetifyjs.com/en/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="40" height="40"/></a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/></a>
+          <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></a>
+          <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></a>
+          <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></a>
+          <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></a>
         </p>
       </div>
       <div class="profile-image">
@@ -37,10 +67,6 @@
   </div>
 </body>
 </html>
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@ashwin/30-nites-of-code)  
-  ![@ashwin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ashwin)
 
 <!---
 ashw1nkumars/ashw1nkumars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
