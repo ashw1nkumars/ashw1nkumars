@@ -55,10 +55,6 @@
           <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40"/></a>
           <a href="https://v2.vuetifyjs.com/en/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="40" height="40"/></a>
           <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/></a>
-          <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></a>
-          <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></a>
-          <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></a>
-          <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></a>
         </p>
       </div>
       <div class="profile-image">
