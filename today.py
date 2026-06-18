@@ -8,6 +8,11 @@ import os
 from lxml import etree
 import time
 import hashlib
+import sys
+
+# LOC counter paginates commit history recursively; large repos exceed the
+# default 1000-frame limit, so raise it (bounded by commit pages, ~safe on CI).
+sys.setrecursionlimit(10000)
 
 # Fine-grained personal access token with All Repositories access:
 # Account permissions: read:Followers, read:Starring, read:Watching
