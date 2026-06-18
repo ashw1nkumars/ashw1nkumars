@@ -25,6 +25,16 @@
 - 🤝 LinkedIn: [ashwin-kumar](https://www.linkedin.com/in/ashwin-kumar/)
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1WZ0uE6deAOa4igLVubHN5uGFDW2FJR6iI4rMmXR8b90/edit?usp=sharing)
 
+## 🚀 What I've Been Building
+
+<em>Real-time AI voice agents — the hard parts:</em>
+
+- 🎙️ **Real-time call control & transfers** — DTMF-based IVR navigation so an agent can dial through phone menus before warm-transferring to a human, unified across multiple telephony providers
+- 🧠 **LLM-driven conversation graphs** — an onboarding engine that generates & optimizes decision-tree conversation flows via multi-pass LLM prompting with retries and topology validation
+- ⚡ **Distributed webhook delivery** — concurrency-safe event dispatch with a Redis Lua sliding-window rate limiter and dedup locks so parallel workers never double-fire
+- 🔊 **Low-level real-time audio (Web Audio / AudioWorklet)** — glitch-free live-call playback: buffer-underrun handling, resume watermarks, and fade-ins to kill audible clicks
+- 🗣️ **Multi-provider TTS layer** — bring-your-own-key text-to-speech across several vendors, with runtime EU/US data-residency routing
+
 ### Connect with me
 
 <p align="left">
