@@ -132,6 +132,12 @@
   </picture>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ashw1nkumars/ashw1nkumars/main/doomed-dog.svg" alt="doomed dog ascii art" width="440" />
+</div>
+
 <!---
 ashw1nkumars/ashw1nkumars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
