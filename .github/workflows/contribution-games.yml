@@ -1,0 +1,44 @@
+name: Contribution Games
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake-out/github-contribution-grid-snake.svg
+            snake-out/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate Pac-Man SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman"
+
+      - name: Combine generated SVGs
+        run: |
+          mkdir -p public
+          cp snake-out/*.svg public/ 2>/dev/null || true
+          cp dist/*.svg public/ 2>/dev/null || true
+          echo "Publishing:"
+          ls -la public
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
