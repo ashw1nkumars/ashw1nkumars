@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+%40+GetVocal+AI;Backend+%26+Full-Stack+Developer;5%2B+years+building+for+the+web;MSc+Software+Engineering+%E2%80%94+EPITA&center=true&vCenter=true&width=520&height=45&size=22&color=36BCF7&pause=1000" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+%40+GetVocal+AI;Backend+%26+Full-Stack+Developer;5%2B+years+building+for+the+web;MSc+Software+Engineering%2C+EPITA&center=true&vCenter=true&width=520&height=45&size=22&color=36BCF7&pause=1000" alt="What I do" />
 </div>
 
 <div align="center">
@@ -14,11 +14,11 @@
 
 ## <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-- 💼 Currently doing **Engineering @ [GetVocal AI](https://getvocal.ai)** — building real-time AI voice agents
+- 💼 Currently doing **Engineering @ [GetVocal AI](https://getvocal.ai)**, building real-time AI voice agents
 - 🎓 **MSc in Software Engineering** from **EPITA School of Engineering** (graduated)
 - 👨‍💻 **5 years** of professional experience
 - 🌱 Currently going deep on **LLMs, real-time voice AI & Python backends**
-- 💬 Ask me about **Python, FastAPI, VueJS, NodeJS and .NET**
+- 💬 Ask me about **real-time voice AI, LLM agents, telephony (DTMF/IVR), TTS/STT pipelines, and distributed Python/FastAPI backends**
 - 👋 I'm into **games and sports**
 - ⚡ I love **problem solving**
 
