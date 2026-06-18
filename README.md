@@ -67,6 +67,14 @@
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
+## 💬 Dev Quote of the Moment
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -82,6 +90,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ashw1nkumars&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
 </div>
 
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashw1nkumars&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+## 🧊 GitHub Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ashw1nkumars/ashw1nkumars/main/github-metrics.svg" alt="github metrics isometric calendar" />
+</div>
+
 ## <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="37" /> Random Joke
 
 <div align="center">
@@ -90,11 +110,21 @@
 
 </div>
 
+## 🕹️ Contribution Arcade
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashw1nkumars/ashw1nkumars/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashw1nkumars/ashw1nkumars/output/github-contribution-grid-snake.svg">
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashw1nkumars/ashw1nkumars/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashw1nkumars/ashw1nkumars/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashw1nkumars/ashw1nkumars/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ashw1nkumars/ashw1nkumars/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
