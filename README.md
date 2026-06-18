@@ -21,27 +21,22 @@
 - 💬 Ask me about **Python, FastAPI, VueJS, NodeJS and .NET**
 - 👋 I'm into **games and sports**
 - ⚡ I love **problem solving**
-- 📫 Reach me at **ashwinkumarwm@gmail.com**
-- 🤝 LinkedIn: [ashwin-kumar](https://www.linkedin.com/in/ashwin-kumar/)
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1WZ0uE6deAOa4igLVubHN5uGFDW2FJR6iI4rMmXR8b90/edit?usp=sharing)
 
 ## 🚀 What I've Been Building
 
-<em>Real-time AI voice agents — the hard parts:</em>
+<em>Real-time AI voice agents, the hard parts:</em>
 
-- 🎙️ **Real-time call control & transfers** — DTMF-based IVR navigation so an agent can dial through phone menus before warm-transferring to a human, unified across multiple telephony providers
-- 🧠 **LLM-driven conversation graphs** — an onboarding engine that generates & optimizes decision-tree conversation flows via multi-pass LLM prompting with retries and topology validation
-- ⚡ **Distributed webhook delivery** — concurrency-safe event dispatch with a Redis Lua sliding-window rate limiter and dedup locks so parallel workers never double-fire
-- 🔊 **Low-level real-time audio (Web Audio / AudioWorklet)** — glitch-free live-call playback: buffer-underrun handling, resume watermarks, and fade-ins to kill audible clicks
-- 🗣️ **Multi-provider TTS layer** — bring-your-own-key text-to-speech across several vendors, with runtime EU/US data-residency routing
+- 🎙️ **Real-time call control & transfers** - DTMF-based IVR navigation so an agent can dial through phone menus before warm-transferring to a human, unified across multiple telephony providers
+- 🧠 **LLM-driven conversation graphs** - an onboarding engine that generates & optimizes decision-tree conversation flows via multi-pass LLM prompting with retries and topology validation
+- ⚡ **Distributed webhook delivery** - concurrency-safe event dispatch with a Redis Lua sliding-window rate limiter and dedup locks so parallel workers never double-fire
+- 🔊 **Low-level real-time audio (Web Audio / AudioWorklet)** - glitch-free live-call playback: buffer-underrun handling, resume watermarks, and fade-ins to kill audible clicks
+- 🗣️ **Multi-provider TTS layer** - bring-your-own-key text-to-speech across several vendors, with runtime EU/US data-residency routing
 
 ### Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ashwin-kumar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://codepen.io/ashwinkumars" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
   <a href="https://instagram.com/absentashwin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/ashwinkumars" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 </p>
 
 ### Languages
@@ -88,7 +83,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashw1nkumars&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="github stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashw1nkumars&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
 </div>
 
