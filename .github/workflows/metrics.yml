@@ -1,0 +1,27 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Built-in token works for public data. For private-contribution
+          # totals, replace with a scopeless personal token: secrets.METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: ashw1nkumars
+          filename: github-metrics.svg
+          base: header, activity
+          config_timezone: Europe/Paris
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
