@@ -9,6 +9,12 @@
 </div>
 
 <div align="center">
+  <a href="https://dyn-portfolio-omega.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/%E2%9C%A6%20Check%20out%20my%20portfolio%20website!-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Check out my portfolio website" height="40" />
+  </a>
+</div>
+
+<div align="center">
   <img alt="coding gif" src="https://media4.giphy.com/media/jUno8Cc47Az7IefvW0/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="420" />
 </div>
 
@@ -24,7 +30,7 @@
 
 ## 🚀 What I've Been Building
 
-<em>Real-time AI voice & chat agents — the hard parts:</em>
+<em>Real-time AI voice & chat agents, the hard parts:</em>
 
 - 🧠 **LLM-driven conversation-graph builder** - an onboarding engine that generates whole decision-tree conversation flows (nodes, typed variables, conditional routing) from a plain business brief, via multi-pass LLM prompting with topology validation, consistency checks, and cross-agent/language auto-sync
 - 🧪 **Self-driving call simulation → continuous learning** - a brand-new agent has no calls to learn from, so I manufacture them: one LLM probes the agent's weakest *uncovered* scenario while another role-plays the customer, producing labeled synthetic transcripts, plus a calls-audit pipeline that classifies exactly where agents break down (stalled graphs, repetitive loops, deficient outcomes)
