@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+%40+GetVocal+AI;Backend+%26+Full-Stack+Developer;5%2B+years+building+for+the+web;MSc+Software+Engineering%2C+EPITA&center=true&vCenter=true&width=520&height=45&size=22&color=36BCF7&pause=1000" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+%40+GetVocal+AI;Real-time+Voice+AI+%2B+LLM+Agents;Distributed+Python+%2F+FastAPI+Backends;Reliability+%26+Systems+Debugging&center=true&vCenter=true&width=560&height=45&size=22&color=36BCF7&pause=1000" alt="What I do" />
 </div>
 
 <div align="center">
@@ -14,20 +14,23 @@
 
 ## <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-- 💼 Currently doing **Engineering @ [GetVocal AI](https://getvocal.ai)**, building real-time AI voice agents
+- 💼 Currently doing **Engineering @ [GetVocal AI](https://getvocal.ai)**, building real-time AI voice & chat agents
 - 🎓 **MSc in Software Engineering** from **EPITA School of Engineering**, Paris (graduated)
 - 👨‍💻 **5 years** of professional experience
-- 🌱 Currently going deep on **LLMs, real-time voice AI & Python backends**
-- 💬 Ask me about **real-time voice AI, LLM agents, telephony (DTMF/IVR), TTS/STT pipelines, and distributed Python/FastAPI backends**
+- 🌱 Currently going deep on **LLM agents, real-time voice AI & distributed Python backends**
+- 💬 Ask me about **real-time voice AI, LLM agents (MCP / A2A), telephony (DTMF/IVR/SIP), TTS/STT pipelines, and distributed Python/FastAPI backends**
 - 👋 I'm into **games and sports**
 - ⚡ I love **problem solving**
 
 ## 🚀 What I've Been Building
 
-<em>Real-time AI voice agents, the hard parts:</em>
+<em>Real-time AI voice & chat agents — the hard parts:</em>
 
-- 🎙️ **Real-time call control & transfers** - DTMF-based IVR navigation so an agent can dial through phone menus before warm-transferring to a human, unified across multiple telephony providers
-- 🧠 **LLM-driven conversation graphs** - an onboarding engine that generates & optimizes decision-tree conversation flows via multi-pass LLM prompting with retries and topology validation
+- 🧠 **LLM-driven conversation-graph builder** - an onboarding engine that generates whole decision-tree conversation flows (nodes, typed variables, conditional routing) from a plain business brief, via multi-pass LLM prompting with topology validation, consistency checks, and cross-agent/language auto-sync
+- 🧪 **Self-driving call simulation → continuous learning** - a brand-new agent has no calls to learn from, so I manufacture them: one LLM probes the agent's weakest *uncovered* scenario while another role-plays the customer, producing labeled synthetic transcripts, plus a calls-audit pipeline that classifies exactly where agents break down (stalled graphs, repetitive loops, deficient outcomes)
+- 🕵️ **"Hound" — an in-cluster AI investigation agent** - triages production incidents on its own by correlating Loki logs, read-only DB/Redis state, and source code, over the kagent + Agent-to-Agent (A2A) protocol with MCP tools; built end-to-end across the task runner, backend API, data model, Kubernetes/ArgoCD config, and a React UI
+- 🎙️ **Real-time call control & transfers** - DTMF-based IVR navigation so an agent can dial through phone menus before warm/cold-transferring to a human (with conversation-summary handoff and SIP paths), unified across multiple telephony providers
+- 🔇 **Voice reliability, the invisible kind** - killing dead-air and barge-in races so fillers never talk over a speaking user, surviving a Redis reconnect-storm cascade in the TTS websocket path, and detecting dead outbound RTP legs under live traffic
 - ⚡ **Distributed webhook delivery** - concurrency-safe event dispatch with a Redis Lua sliding-window rate limiter and dedup locks so parallel workers never double-fire
 - 🔊 **Low-level real-time audio (Web Audio / AudioWorklet)** - glitch-free live-call playback: buffer-underrun handling, resume watermarks, and fade-ins to kill audible clicks
 - 🗣️ **Multi-provider TTS layer** - bring-your-own-key text-to-speech across several vendors, with runtime EU/US data-residency routing
@@ -66,6 +69,8 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></a>
+  <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
