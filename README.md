@@ -16,7 +16,7 @@
 
 - 💼 Currently doing **Engineering @ [GetVocal AI](https://getvocal.ai)**, building real-time AI voice & chat agents
 - 🎓 **MSc in Software Engineering** from **EPITA School of Engineering**, Paris (graduated)
-- 👨‍💻 **5 years** of professional experience
+- 👨‍💻 **5+ years** of professional experience
 - 🌱 Currently going deep on **LLM agents, real-time voice AI & distributed Python backends**
 - 💬 Ask me about **real-time voice AI, LLM agents (MCP / A2A), telephony (DTMF/IVR/SIP), TTS/STT pipelines, and distributed Python/FastAPI backends**
 - 👋 I'm into **games and sports**
